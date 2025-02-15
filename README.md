@@ -5,8 +5,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenivaldoJunior1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RenivaldoJunior1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RenivaldoJunior1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RenivaldoJunior1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -37,9 +37,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk5M292bm85Zm81OWR3N3ZwYnVkZHJiYzRiODM0MWZ6ajdndDgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
-###
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/renivaldo-j%C3%BAnior/" target="_blank">
@@ -51,6 +49,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RenivaldoJunior1/RenivaldoJunior1/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk5M292bm85Zm81OWR3N3ZwYnVkZHJiYzRiODM0MWZ6ajdndDgzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
 ###
